@@ -1,4 +1,4 @@
-# 🏧 ATM Database Management System
+ ATM Database Management System
 
 ## 📘 Project Overview
 The **ATM Database Management System** is a database-driven project designed to simulate the core backend structure of an Automated Teller Machine (ATM). It focuses on secure data storage and management of customer accounts, transactions, and authentication processes using **MySQL**.
